@@ -10,4 +10,5 @@
 
 [Write and Explain A Program: REPEATS, Video 2](https://www.youtube.com/watch?v=mD529G6qDEI&ab_channel=BrendanDevlin)
 
+[Write and Explain A Program: Animal Parade, Video 3](https://www.youtube.com/watch?v=m2-QJO2NG4I&ab_channel=BrendanDevlin) 
 
