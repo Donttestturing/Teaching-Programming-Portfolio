@@ -16,7 +16,7 @@
 
 [Write and Explain A Program; Events, Banana catcher Video 5](https://www.youtube.com/watch?v=4GpR2WJGxQo&ab_channel=BrendanDevlin) 
 
-
+[Write and Explain A Program; Variables, Shape drawing Video 6](https://www.youtube.com/watch?v=abZ3brs5r3A&ab_channel=BrendanDevlin) 
 
 
 
