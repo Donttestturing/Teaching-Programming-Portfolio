@@ -18,6 +18,6 @@
 
 [Write and Explain A Program; Variables, Shape drawing Video 6](https://www.youtube.com/watch?v=abZ3brs5r3A&ab_channel=BrendanDevlin) 
 
-
+[Write and Explain A Program; Conditional Loops, Catch the soccer ball 7](https://www.youtube.com/watch?v=sMI8dR-r9X4&ab_channel=Brendan) 
 
 
