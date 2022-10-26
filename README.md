@@ -20,4 +20,4 @@
 
 [Write and Explain A Program; Conditional Loops, Catch the soccer ball Video 7](https://www.youtube.com/watch?v=sMI8dR-r9X4&ab_channel=Brendan) 
 
-
+[Write and Explain A Program; If statements, Bullseye game Video 8](https://www.youtube.com/watch?v=jvfWbvYikWI&feature=youtu.be&ab_channel=BrendanDevlin) 
