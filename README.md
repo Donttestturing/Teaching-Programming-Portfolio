@@ -21,3 +21,7 @@
 [Write and Explain A Program; Conditional Loops, Catch the soccer ball Video 7](https://www.youtube.com/watch?v=sMI8dR-r9X4&ab_channel=Brendan) 
 
 [Write and Explain A Program; If statements, Bullseye game Video 8](https://www.youtube.com/watch?v=jvfWbvYikWI&feature=youtu.be&ab_channel=BrendanDevlin) 
+
+[Write and Explain A Program; nested if-else statements, Swim in the Ocean Video 9](https://www.youtube.com/watch?v=n1SqTLtjeqY&feature=youtu.be&ab_channel=BrendanDevlin) 
+
+
