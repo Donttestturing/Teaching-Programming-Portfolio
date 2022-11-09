@@ -24,4 +24,6 @@
 
 [Write and Explain A Program; nested if-else statements, Swim in the Ocean Video 9](https://www.youtube.com/watch?v=n1SqTLtjeqY&feature=youtu.be&ab_channel=BrendanDevlin) 
 
+[Write and Explain A Program; compound conditionals, Find the buried treasure Video 10](https://www.youtube.com/watch?v=CWG85o0Su54&feature=youtu.be&ab_channel=Brendan) 
+
 
