@@ -26,4 +26,5 @@
 
 [Write and Explain A Program; compound conditionals, Find the buried treasure Video 10](https://www.youtube.com/watch?v=CWG85o0Su54&feature=youtu.be&ab_channel=Brendan) 
 
+[Write and Explain A Program; abstraction, paint a sunny picture Video 11](https://www.youtube.com/watch?v=fSelkhbs_dw&ab_channel=Brendan) 
 
