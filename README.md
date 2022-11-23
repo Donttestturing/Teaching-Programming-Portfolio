@@ -28,3 +28,5 @@
 
 [Write and Explain A Program; abstraction, paint a sunny picture Video 11](https://www.youtube.com/watch?v=fSelkhbs_dw&ab_channel=Brendan) 
 
+[Write and Explain A Program; Lists; Name the countries Video 12](https://www.youtube.com/watch?v=oAB7vcGOegU&ab_channel=Brendan) 
+
